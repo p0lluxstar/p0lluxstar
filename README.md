@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I am <a href="https://p0lluxstar.netlify.app/" target="_blank">Amelichev Evgeniy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">Front-end developer</h3>
+<h3 align="left">Full Stack Junior web-developer</h3>
 
-<div align="left">I am currently working as a system administrator for an IT company. In my free time, I am engaged in frontend development and am considering the possibility of moving into this field as my main profession.</div>  
+<div align="left">I am currently working as a system administrator for an IT company. In my free time, I am engaged in web-development and am considering the possibility of moving into this field as my main profession.</div>  
 
 - 🖥️  See my [portfolio](https://p0lluxstar.netlify.app/) 
 
