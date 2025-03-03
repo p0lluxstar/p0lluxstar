@@ -39,10 +39,10 @@
       <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
       <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-      <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
       <a href="https://www.prisma.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
       <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-      <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+      <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+      <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a> 
     </div>
   </div>
 
@@ -52,8 +52,8 @@
       <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
       <a href="https://www.nginx.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
       <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-      <a href="https://gulpjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>
       <a href="https://webpack.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
+      <a href="https://gulpjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>
       <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
       <a href="https://grafana.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
     </div>
@@ -66,6 +66,6 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p0lluxstar&theme=default" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0lluxstar&hide_border=true&layout=compact" height="150px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p0lluxstar&theme=default" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p0lluxstar&theme=default&utcOffset=3" height="150px"/>
 </div>
