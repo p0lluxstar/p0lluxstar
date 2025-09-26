@@ -69,10 +69,10 @@ My current job is related to information technology, but in my spare time I am i
 ## Github Stats 
 
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p0lluxstar&theme=default" height="140px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p0lluxstar&theme=default" height="140px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p0lluxstar&theme=default" height="140px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p0lluxstar&theme=default&utcOffset=3" height="140px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=p0lluxstar&theme=default" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p0lluxstar&theme=default" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=p0lluxstar&theme=default" height="150px"/>
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p0lluxstar&theme=default&utcOffset=3" height="140px"/> -->
 </div>
 
 
