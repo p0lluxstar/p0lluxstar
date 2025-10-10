@@ -11,7 +11,7 @@ My current job is related to information technology, but in my spare time I am i
 [![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-Click_Here-success?style=flat-square)](https://p0lluxstar.ru/)
 
 ### 📬 **Get In Touch**
-[![Email](https://img.shields.io/badge/📧_Email-polluxstar@yandex.ru-red?style=flat-square)](mailto:polluxstar@yandex.ru)
+[![Email](https://img.shields.io/badge/📧_Email-p0lluxstar@yandex.ru-red?style=flat-square)](mailto:p0lluxstar@yandex.ru)
 [![Telegram](https://img.shields.io/badge/📱_Telegram-@p0lluxstar-blue?style=flat-square)](https://t.me/p0lluxstar)
 
 ## My Skill Set  
