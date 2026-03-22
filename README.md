@@ -4,7 +4,7 @@
 ### **💻 FULLSTACK WEB-DEVELOPER**
 
 <div align="left">
-My current job is related to information technology, but in my spare time I am interested in web development. Now I am considering the possibility of turning this hobby into my main profession.
+I have more than 10 years of experience in IT. At the moment, I work as an IT specialist in a company specializing in the development of software for data mining. In my free time, I am actively engaged in web development.
 </div>  
 
 ### 🚀 **Featured Projects**
